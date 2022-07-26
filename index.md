@@ -13,7 +13,8 @@ A basic course from free code camp with nothing new to me
 ## Code 301 - Intermediate Software Development
 | Topics  |  |
 | ----------- | ----------- |
-| Day 1  | [Introduction to React and Components](./class) |
+| Day 1  | [Introduction to React and Components](class01.md) |
 | day 2 | [State and Props]() |
-|Day 3|[Passing Functions as Props]()|
+|Day 3|[Passing Functions as Props]()| 
+|Day 4|[ React and Forms]()|
 ## Code 401 - Advanced Software Development
