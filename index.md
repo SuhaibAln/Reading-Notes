@@ -13,8 +13,8 @@ A basic course from free code camp with nothing new to me
 ## Code 301 - Intermediate Software Development
 | Topics  |  |
 | ----------- | ----------- |
-| Day 1  | [Introduction to React and Components](class01.md) |
-| day 2 | [State and Props]() |
-|Day 3|[Passing Functions as Props]()| 
-|Day 4|[ React and Forms]()|
+| Day 1  | [Introduction to React and Components](https://github.com/SuhaibAln/reading-notes/blob/gh-pages/Code301/class01.md) |
+| day 2 | [State and Props](https://github.com/SuhaibAln/reading-notes/blob/gh-pages/Code301/class02.md) |
+|Day 3|[Passing Functions as Props](https://github.com/SuhaibAln/reading-notes/blob/gh-pages/Code301/class03.md)| 
+|Day 4|[ React and Forms](https://github.com/SuhaibAln/reading-notes/blob/gh-pages/Code301/class04.md)|
 ## Code 401 - Advanced Software Development
