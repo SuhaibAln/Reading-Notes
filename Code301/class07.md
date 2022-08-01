@@ -12,3 +12,7 @@
 - HTTP PUT either sends information or replaces information that was already there.
 # What does PATCH do?
 -  HTTP PATCH modifies information.
+
+## Things I want to know more about
+- What kinds of APIs are available, and how to evaluate which ones are stable & have good data.
+
